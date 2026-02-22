@@ -1,10 +1,10 @@
 # Space Survivor Game
 
-A pacman/galaga style game where the player must avoid or shoot aliens while collecting keys to escape.
+A pacman/galaga style game where the player must avoid aliens while collecting keys to escape.
 
 ## Instructions for Build and Use
 
-[Software Demo](Put_Your_Video_Link_Here)
+[Software Demo](https://www.kaltura.com//p/1157612/embedPlaykitJs/uiconf_id/56813562?iframeembed=true&entry_id=1_q1d73nsn)
 
 Steps to build and/or run the software:
 
@@ -28,14 +28,12 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-- [Python Arcade Library](https://api.arcade.academy/en/stable/example_code/index.html#primitives)
--
--
+- [Python Arcade Library](https://api.arcade.academy/en/stable/example_code/index.html#primitives) -[Arcade Platforms](https://learn.arcade.academy/en/latest/chapters/29_platformers/platformers.html)
 
 ## Future Work
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-- [ ] First thing here
-- [ ]
-- [ ]
+- [ ] Blaster for player
+- [ ] Limit spawn for enemy and don't allow them to use the exit
+- [ ] More levels with more difficulty (maybe more aliens as the levels progress)
